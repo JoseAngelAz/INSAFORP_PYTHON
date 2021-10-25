@@ -27,7 +27,7 @@ print("La resta es:", a-b)
 c = "20"
 
 print("Uso de *",a*b+int(c))
-print("Uso de %",a/b)
+print("Uso de /",a/b)
 print("Uso de %",a%b)
 print("Uso de //",a//b)
 print("Uso de **",a**b)
